@@ -29,6 +29,47 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+**User-Generated Content & Community Standards (End User License Agreement)**
+
+The Application allows users to create, post, share, and interact with user-generated content ("UGC"). By using any feature of the Application that involves UGC, you explicitly agree to the following terms:
+
+**No Tolerance for Objectionable Content**
+
+You agree that you will not post, share, or distribute any content that is — or could reasonably be considered — objectionable, including but not limited to:
+
+*   Content that is abusive, threatening, harassing, hateful, or defamatory toward any individual or group
+*   Content that is obscene, pornographic, sexually explicit, or otherwise inappropriate
+*   Content that promotes violence, self-harm, illegal activity, or discrimination based on race, ethnicity, gender, religion, sexual orientation, disability, or any other protected characteristic
+*   Content that infringes on the intellectual property, privacy, or other rights of any third party
+*   Spam, misinformation, or deceptive content of any kind
+
+**No Tolerance for Abusive Behavior**
+
+You agree that you will not engage in abusive behavior toward other users of the Application, including but not limited to:
+
+*   Harassment, bullying, intimidation, or stalking of any user
+*   Impersonating another person or entity
+*   Attempting to manipulate, deceive, or harm other users
+*   Coordinating or encouraging others to abuse or target specific users
+
+**Enforcement**
+
+The Service Provider reserves the right — but not the obligation — to review, monitor, remove, or disable access to any UGC at any time, at their sole discretion, without notice. Violations of these community standards may result in immediate suspension or permanent termination of your account.
+
+**Reporting Objectionable Content**
+
+If you encounter content you believe violates these terms, you may report it directly within the Application using the reporting feature available on posts and user profiles. Reports are reviewed by the Service Provider and appropriate action will be taken.
+
+**Blocking Abusive Users**
+
+If another user is engaging in behavior you find abusive or unwanted, you may block that user directly within the Application. Blocking a user will prevent them from interacting with your content and profile.
+
+**Your Agreement**
+
+By accessing any user-generated content feature within the Application, you confirm that you have read, understood, and agreed to these terms. This section constitutes part of the End User License Agreement (EULA) between you and the Service Provider.
+
+---
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
